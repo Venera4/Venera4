@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venera4
 - 👀 Lie is beautiful!
-- 🌱 I’m currently learning NLP
+- 🌱 NLP student in the University of Strasbourg
 - 📫 How to reach me : veneragareeva@mail.ru
   
 
