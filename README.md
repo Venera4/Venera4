@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Venera4
-- 👀 Lie is beautiful!
+- 👀 Life is beautiful!
 - 🌱 NLP student in the University of Strasbourg
 - 📫 How to reach me : veneragareeva@mail.ru
   
