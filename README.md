@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Venera4
-- 🌱 NLP engineer
-- 📫 How to reach me : veneragareeva@mail.ru
-- Master’s degree in Natural Language Processing, Computer Science, and Translation at the University of Strasbourg
+About me:
+-  NLP engineer
+-  Master’s degree in Natural Language Processing, Computer Science, and Translation at the University of Strasbourg
+-  Languages: English (C2), French (C2), Russian (native), German (B1)
+-  📫 How to reach me : veneragareeva@mail.ru
+  <!-- Projects or Experience --> 
 
 
 <!---
