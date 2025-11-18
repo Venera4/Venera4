@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Venera4
+  
 About me:
 -  NLP engineer
 -  Master’s degree in Natural Language Processing, Computer Science, and Translation at the University of Strasbourg
