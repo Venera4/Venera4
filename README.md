@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Venera4
-- 👀 Life is beautiful!
-- 🌱 NLP student in the University of Strasbourg
+- 🌱 NLP engineer
 - 📫 How to reach me : veneragareeva@mail.ru
-  
+- Master’s degree in Natural Language Processing, Computer Science, and Translation at the University of Strasbourg
+
 
 <!---
 Venera4/Venera4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
